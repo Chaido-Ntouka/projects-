@@ -1,0 +1,31 @@
+<?php
+include("header.inc");
+include("dbc.php");
+
+$email=$_POST['email'];
+$password=$_POST['password'];
+$conf_pass=$_POST['conf_pass'];
+$name=$_POST['name'];
+$surname=$_POST['surname'];
+$phone=$_POST['phone'];
+
+if($password==$conf_pass){
+    $md5=md5($password);
+    $query="INSERT INTO  User (NAME,SURNAME,PHONE,EMAIL,PASSWORD,CONFIRMED,STATUS) VALUES ('$name', '$surname','$phone','$email','$md5','no','user')";
+    //echo $query;
+    $result=mysqli_query($link, $query);
+
+    $to      = $email;
+    $subject = 'Acropolis Restaurant: Please Confirm Subscription';
+    $message = "Hi $name $surname,\r\nTo confirm your subscription, visit: http://localhost/~cntouka/acropolis/confirmation.php?email=$email&token=$md5\r\nThank you!";
+    $headers = 'From: admin@acropolis.gr';
+    mail($to, $subject, $message, $headers);
+}
+else{
+    echo "passwords don't match";
+}
+?>
+      Check your email!
+    </div>
+  </body>
+</html>

@@ -1,0 +1,17 @@
+<?php
+/* These are our valid username and passwords */
+$user = 'doukaxaidw1@gmail.com';
+$pass = '1234';
+
+if (isset($_COOKIE[['username']) && isset($_COOKIE['password')) {
+    
+    if (($_POST['username'] != $user) || ($_POST['password'] != md5($pass))) {    
+        header('Location: login.html');
+    } else {
+        echo 'Welcome back ' . $_COOKIE['username'];
+    }
+    
+} else {
+    header('Location: login.html');
+}
+?>

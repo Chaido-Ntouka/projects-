@@ -1,0 +1,22 @@
+<?php
+include("dbc.php");
+/* These are our valid username and passwords */
+
+
+if (isset($_COOKIE['username']) && isset($_COOKIE['password'])) {
+
+    $username = $_COOKIE['username'];
+    $password = $_COOKIE['password'];
+
+    
+    
+    if (($_COOKIE['username'] != $user) || ($_COOKIE['password'] != md5($pass))) {    
+        header('Location: log.php');
+    } else {
+        echo 'Welcome back ' . $_COOKIE['username'];
+    }
+    
+} else {
+    header('Location: indx.php');
+}
+?>

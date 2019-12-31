@@ -1,0 +1,125 @@
+Ελληνικός Καφές Greek Coffee	2.10
+Ελληνικός Διπλός Double Greek Coffee	2.90
+Εσπρέσο Espresso	2.70
+Εσπρέσο Βιολογικός Organic Espresso	2.90
+Εσπρέσο Διπλός Double Espresso	3.50
+Εσπρέσο Freddo Freddo Espresso	3.50
+Καπουτσίνο Cappuccino	3.90
+Καπουτσίνο Διπλός Double Cappuccino	4.10
+Καπουτσίνο Freddo Freddo Cappuccino	4.10
+Νεσκαφέ Nescafe	3.20
+Φραπέ Frappe	3.50
+Καφές Φίλτρου Filter Coffee	2.40
+Καφέ Latte Caf? Latte	3.50
+Zεστή ή κρύα σοκολάτα γάλακτος Hot or frozen milk chocolate	3.60
+Φυσικός χυμός Πορτοκάλι Fresh squeezed orange juice	3.90
+Τσάι του βουνού, το ελληνικό τσάι από τις κορυφές του Ολύμπου και των Αγράφων Greek mountain tea originating from the high peaks of the Olympus and Agrafa mountains	2.60
+Τσάι του βουνού με μέντα, το ελληνικό τσάι από τις κορυφές του Ολύμπου και των Αγράφων συνδυάζεται με την μέντα (Mentha Piperita Mitcham) Greek mountain tea combined with mint (Mentha Piperita Mitcham) originating from the high peaks of the Olympus and Agrafa mountains	2.60
+Μελισσόχορτο, το ελληνικό αφέψημα είναι εξαιρετικά αρωματικό και δεν περιέχει καφεΐνη Lemon balm, caffeine free	2.60
+Χαμομήλι Chamomile	2.60
+Τσάι ζεστό σε ποικιλία γεύσεων (πράσινο βιολογικό και μαύρο τσάι) Assortment of flavors of hot tea (bio green tea and English breakfast tea)	2.55
+Τονωτικό τσάι από μείγμα Ελληνικών αρωματικών φυτών με φύλλα ελιάς, κυνόροδο, τσάι του βουνού, λουίζα και τριαντάφυλλο A zingy, revitalizing Greek herbal tea blend of olive leaves, rosehip, Greek mountain tea, lemon verbena and rose petals	2.80
+Αρωματικό και καταπραϋντικό τσάι από μείγμα Ελληνικών αρωματικών φυτών με χαμομήλι,μελισσόχορτο, λεβάντα, τριαντάφυλλο και αρμπαρόριζα An aromatic, relaxing Greek herbal tea blend of chamomile, lemon balm, lavender, rose petals, passion flower and scented geranium	2.80
+Δροσιστικό, χωνευτικό τσάι από μείγμα Ελληνικών αρωματικών φυτών με μέντα, μάραθο, γλυκάνισο, τσουκνίδα, αγγελική, αγριμόνιο και δίκταμο A refreshing, digestive Greek herbal tea blend of peppermint, fennel, aniseed, nettle, angelica, agrimony and Cretan dittany	2.80
+	
+Σπιτική μαρμελάδα, θυμαρίσιο μέλι και φρέσκο βούτυρο σερβιρισμένα με αρωματικό ζυμωτό ψωμί Fresh bread made in our kitchens served with our own marmalade, thyme honey and fresh butter	3.55
+Γιαούρτι με φρούτα εποχής και μέλι από θυμάρι Full cream Greek yogurt with seasonal fruits and thyme honey	6.00
+Τηγανίτες με πετιμέζι και ταχίνι Greek pancakes with grape molasses and tahini	4.55
+Λουκουμάδες με μέλι από χαρούπια, κανέλα και καρύδια Greek donuts with carob honey, cinnamon and walnuts	5.55
+Κεφαλοτύρι Δωδώνης με μέλι και θυμάρι Kefalotyri from Dodoni with thyme honey and thyme	6.10
+Αυγά «μάτια» με προσούτο Θράκης Two fried eggs with prosciutto from Thrace	6.10
+Ομελέτα με γραβιέρα Κρήτης Three eggs omelette with Cretan gruyere	6.10
+Στραπατσάδα με φρέσκια ντομάτα και πιπεριές Strapatsada (scrambled eggs) with fresh tomatoes and peppers	6.60
+Προσούτο από τη Θράκη με φρούτα και φύλλα κρούστας Prosciutto from Thrace with fruits and phyllo crusts	7.60
+Κέικ βανίλιας με αρώματα πορτοκαλιού Cake with vanilla and orange flavors	4.00
+Ελιές Καλαμών με παξιμαδάκια Olives from Kalamata with small rusks	3.10
+Σπιτικό φρεσκοψημένο στον φούρνο μας κουλουράκι Θεσσαλονίκης με τυράκι Homemade baked in our oven koulouri (bread sesame roll) served with cheese	2.20
+Πολύσπορο ψωμάκι* με καπνιστό κοτόπουλο, τυράκι, ντομάτα, μαρούλι, τσιπς πατάτας και αγγουράκι Multigrain bread* with smoked chicken, cheese, tomato, lettuce served with potato chips and cucumber	5.90
+Τσιαπατίνα* με ζαμπόν, τσαλαφούτι (κρεμώδες τυρί Καρπενησίου), ντομάτα, μαρούλι, τσιπς πατάτας και αγγουράκι Ciabatta bread* with ham, tsalafouti (cream cheese from Karpenisi), tomato, lettuce, served with potato chips and cucumber	5.90
+Μπαγκετίνι* με λιαστή ντομάτα, ψητή μελιτζάνα, κολοκυθάκι, βασιλικό, μανιτάρια, τσιπς πατάτας και αγγουράκι Baguette* with sun dried tomato, baked eggplant,zucchini, basil and mushrooms served with potatochips and cucumber	5.60
+Τάρτα λεμονιού Lemon tart	6.10
+Παραδοσιακός Γιαννιώτικος μπακλαβάς με παγωτό κανέλα Traditional baklava (sweet pastry made of layers of phyllo filled with nuts) served with cinnamon ice cream	6.90
+Σοκολατόπιτα με παγωτό βανίλια Chocolate pie served with vanilla ice cream	6.70
+Μους σοκολάτα με αρώματα espresso Chocolate mousse with espresso flavors	6.40
+Κρέμα λευκής σοκολάτας με μοσχολέμονο White chocolate cream with lime	6.30
+Παγωτό καϊμάκι με σπιτικό γλυκό του κουταλιού Ice cream with homemade sweet preserves	6.00
+Κέικ βανίλιας με αρώματα πορτοκαλιού Cake with vanilla and orange flavors	4.00
+Γιαούρτι με φρέσκα φρούτα εποχής και θυμαρίσιο μέλι Full cream yoghurt with fresh seasonal fruits and thyme honey 	6.00
+Βανίλια Vanilla	4.10
+Σοκολάτα Chocolate	4.10
+Κανέλα Cinnamon	4.70
+Σορμπέ λεμόνι Lemon sorbet	4.50
+Σορμπέ φράουλα Strawberry sorbet	4.50
+Σορμπέ σοκολάτα bitter Valhrona Valhrona bitter chocolate sorbet	5.30
+Πορτοκαλάδα Λούξ (250ml) Orange juice drink Loux (sparkling)(250ml)	3.25
+Πορτοκαλάδα Λουξ (χωρίς ανθρακικό)(250ml) Orange juice drink Loux (not sparkling)(250 ml)	2.25
+Βυσσινάδα Λούξ (250ml)Sour cherry juice Loux (sparkling)(250ml)	3.25
+Λεμονάδα Λούξ (250ml)Lemon juice drink Loux (sparkling)(250ml)	3.25
+Coca cola (250ml)	3.55
+Coca cola light (250ml)	3.55
+Three Cents Grapefruit Soda (200ml)	5.20
+Three Cents Ginger Beer (200ml)	5.20
+Μεταλλικό νερό (1lt) Mineral water (1lt)	1.45
+Ξινό νερό Φλώρινας (250ml) Sparkling water (250ml)	2.90
+dishes	
+Σούπα ημέρας Soup of the day	6.70
+Πολύχρωμη σαλάτα με αρωματικά βότανα, προσούτο Θράκης, φύλλα κρούστας και βινεγκρετ δενδρολίβανου Multicolored salad with aromatic herbs, prosciutto from Thrace, phyllo crusts and rosemary vinaigrette	8.10
+Σαλάτα με τρυφερά κολοκυθάκια, αγγουράκι,ραπανάκια, δυόσμο και τσαλαφούτι (κρεμώδες τυρί Καρπενησίου) Salad with zucchinis, cucumbers, radishes, mint and tsalafouti (cream cheese from Karpenisi)	7.50
+Σαλάτα με ντομάτα, αγγουράκι, πιπεριές, κάπαρη, βασιλικό και ανθότυρο Κρήτης Salad with tomatoes, cucumber, peppers, caper, basil and anthotyro (soft cheese) from Crete	7.50
+Μαυρομάτικα σαλάτα με καπνιστό φιλέτο μπακαλιάρου από την Χαλκιδική Salad with black eyed peas and smoked cod fillet from Chalkidiki	13.00
+Η πίτα της ημέρας με δροσερή σαλάτα Pie of the day, served with cold salad	7.00
+Γίγαντες Καστοριάς με ντομάτα, κρεμμυδάκια και αρωματικά στον φούρνο Giant baked beans from Kastoria with tomatoes, green onions and herbs	7.00
+Χειροποίητα ταλιολίνι με σάλτσα φρέσκιας ντομάτας αρωματισμένη με βασιλικό και μαλακό κατσικίσιο τυρί από την Κρήτη Handmade tagliolini with a fresh tomato sauce flavored with basil served with a soft goat cheese from Crete	13.00
+Ζυμαρικά με μοσχαρίσιο φρεσκοκομμένο κιμά και κεφαλοτύρι από την Ήπειρο Pasta with beef minced meat and kefalotyri cheese (traditional hard cheese made by ship’s milk) from Epirus	12.20
+Φρέσκιες γαρίδες με κριθαράκι, ψιλοκομμένα λαχανικά και κουρκουμά Fresh shrimps with orzo, chopped vegetables and turmeric	17.50
+Φιλέτο ξαρμυρισμένου μπακαλιάρου με σάλτσα από Κρόκο Κοζάνης και φάβα Σαντορίνης Cod fillet with red saffron sauce and split baked beans from Santorini	16.50
+Στήθος κοτόπουλου στη σχάρα με σάλτσα από καπνιστό τυρί Βερμίου και πολίτικο ρύζι με σταφίδες και ψιλοκομμένα λαχανικά Grilled chicken breast with a smoked cheese sauce served with rice, raisins and chopped vegetables	15.50
+Μοσχαράκι σιγομαγειρεμένο με λεμονάτη σάλτσα ρίγανης και σπιτικό πουρέ πατάτας Slow cooked veal with a lemon – oregano sauce served with homemade mashed potatoes	17.00
+Μπιφτέκια από φρεσκοκομμένο μοσχαρίσιο κιμά στη σχάρα με κυδωνάτες τηγανητές πατάτες και ντιπ γιαουρτιού με δυόσμο Grilled beef burgers with potato wedges and a yoghurt dip with mint	14.10
+ΓΙΑ ΤΑ ΠΑΙΔΙΑ ΠΡΟΤΕΙΝΟΥΜΕ FOR KIDS WE RECOMMEND	
+Σπιτικό φρεσκοψημένο στον φούρνο μας κουλουράκι Θεσσαλονίκης με τυράκι Homemade baked in our oven koulouri (bread sesame roll) served with cheese	2.20
+Πολύσπορο ψωμάκι* με καπνιστό κοτόπουλο, τυράκι, ντομάτα, μαρούλι, τσιπς πατάτας και αγγουράκι Multigrain bread* with smoked chicken, cheese, tomato, lettuce served with potato chips and cucumber	5.90
+Τσιαπατίνα* με ζαμπόν, τσαλαφούτι (κρεμώδες τυρί Καρπενησίου), ντομάτα, μαρούλι, τσιπς πατάτας και αγγουράκι Ciabatta bread* with ham, tsalafouti (cream cheese from Karpenisi), tomato, lettuce, served with potato chips and cucumber	5.90
+Μπαγκετίνι* με λιαστή ντομάτα, ψητή μελιτζάνα, κολοκυθάκι, βασιλικό, μανιτάρια, τσιπς πατάτας και αγγουράκι Baguette* with sun dried tomato, baked eggplant, zucchini, basil and mushrooms served with potato chips and cucumber	5.60
+Μπιφτέκια από φρεσκοκομμένο μοσχαρίσιο κιμά στη σχάρα με κυδωνάτες τηγανητές πατάτες και ντιπ γιαουρτιού με δυόσμο Grilled beef burgers with potato wedges and a yoghurt dip with mint	14.10
+Ζυμαρικά με μοσχαρίσιο φρεσκοκομμένο κιμά και κεφαλοτύρι από την Ήπειρο Pasta with beef minced meat and kefalotyri cheese (traditional hard cheese made by ship’s milk) from Epirus	12.20
+ 	
+Τάρτα λεμονιού Lemon tart	6.10
+Παραδοσιακός Γιαννιώτικος μπακλαβάς με παγωτό κανέλα Traditional baklava (sweet pastry made of layers of phyllo filled with nuts) served with cinnamon ice cream	6.90
+Σοκολατόπιτα με παγωτό βανίλια Chocolate pie served with vanilla ice cream	6.70
+Μους σοκολάτα με αρώματα espresso Chocolate mousse with espresso flavors	6.40
+Κρέμα λευκής σοκολάτας με μοσχολέμονο White chocolate cream with lime	6.30
+Παγωτό καϊμάκι με σπιτικό γλυκό του κουταλιού Ice cream with homemade sweet preserves	6.00
+Κέικ βανίλιας με αρώματα πορτοκαλιού Cake with vanilla and orange flavors	4.00
+	
+Τσίπουρο από την Ζίτσα Γκλίναβος (200ml) χωρίς γλυκάνισο Tsipouro from Zitsa Glinavos Domaine (200ml) without anise	8.60
+Τσίπουρο από την Θεσσαλία, Μετέωρο (200ml) χωρίς γλυκάνισοTsipouro from Thessaly (200ml) without anise	8.60
+Τσίπουρο ποτήρι Tsipouro by the glass	4.30
+Βαρβαγιάννη ούζο Πλωμαρίου (200ml) Barbayanni ouzo from Plomari (200ml)	7.60
+Ούζο Πλωμαρίου Ισίδωρου Αρβανίτου (200ml) Ouzo from Plomari Isidoros Arvanitis (200ml)	7.60
+Ούζο ποτήρι Ouzo by the glass	4.10
+Άλφα (330ml) Alfa (330ml)	4.10
+Μύθος (330ml) Mythos (330ml)	4.10
+Volkan Blonde Pilsner Μπύρα Σαντορίνης (330ml) Volkan Blonde Pilsner beer from Santorini island (33oml)	4.80
+Νήσος απαστερίωτη μπύρα από την Τήνο (330ml)Nisos unpasteurized beer from Tinos island (330ml)	4.50
+Βεργίνα weiss (500ml) Vergina weiss (500ml)	6.00
+Ντάμα Κούπα Ν. Λαζαρίδη (Ροδίτης, Chardonnay,Ασύρτικο) Queen of Hearts Nico Lazaridi (Roditis, Chardonnay, Asyrtiko)	4.10
+Άτμα Θυμιόπουλου (Μαλαγουζιά) Atma Thimiopoulos Vineyards	5.50
+Ρήγας Κούπα Ν. Λαζαρίδη (Cabernet Sauvignon, Merlot) King of Hearts Nico Lazaridi (Cabernet Sauvignon, Merlot)	4.10
+Οινάρι Παρπαρούση (Μαυροδάφνη, Αγιωργίτικο) Oinari (Mavrodafni, Agiorgitiko)	5.60
+Αγιωργίτικο Ζαχαριά Βιολογικής καλλιέργειας (Αγιωργίτικο) Agiorgitiko Zacharias Estate made by organic grapes (Agiorgitiko)	4.10
+Μοσχάτο Πατρών Muscat of Patras	5.00
+Ρετσίνα Κεχρή Retsina Kechri	5.00
+Emphasis Chardonnay Κτήμα Παυλίδη (750ml) Emphasis Chardonnay Pavlidis Estate (750ml)	29.80
+Σαντορίνη Χατζηδάκη (750ml) Ασύρτικο santorini Hatzidakis (750ml) Asyrtiko Armyra Σκούρα (750ml)	27.30
+ Chardonnay, Μαλαγουζιά Armyra Domaine Skouras (750ml) Chardonnay, Malagouzia	26.00
+Traminer Κατωγι Αβέρωφ (750ml) Traminer Traminer Katogi Averof (750ml) Traminer	24.80
+Μαγικό Βουνό Ν. Λαζαρίδη 750 ml - Sauvignon Blanc Magic mountain Nico Lazaridi 750 ml Sauvignon Blanc	27.70
+Βιδιανό Αλεξάκη (750ml) Βιδιανό, παραδοσιακή	19.50
+Κρητική ποικιλία Vidiano Alexakis (750ml) Viadiano, traditional white grape variety from Crete 	17.00
+Σαββατιανό Παπαγιαννάκου (750ml) Σαββατιανό Savatiano Papagiannakos Domaine (750ml) Savatiano	25.50
+Οροπέδιο Μπουτάρη (750ml) Μοσχοφίλερο Oropedio Boutari (750ml) Moschofilero	26.70
+Μαλαγουζιά Κτήμα Τέχνη Οίνου (750ml) Μαλαγουζιά Malagousia Wine Art Estate (750ml) Malagouzia	26.30
+Κτήμα Avantis Lenga (750ml) Gewurztraminer Avantis Estate Lenga (750ml) Gewurztraminer	17.00
+Κυδωνίτσα Ζαχαριά (750ml) Κυδωνίτσα Kidonitsa Zacharias Estate (750ml) Kidonitsa	26.40
+Τέσσερις Λίμνες Κυρ Γιάννη (750ml) Chardonnay, Gewurztraminer Tesseris Limnes Kir - Yianni (750ml) Chardonnay,Gewurztraminer	27.00

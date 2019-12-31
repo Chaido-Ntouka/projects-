@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<?php
+include("header.inc");
+    <form method="POST" action="" name="form">Email&nbsp; <input autocomplete="on"
+
+        name="email" type="email"><br>
+      Password <input autocomplete="on" name="passwrd" type="password"><br>
+      Confirm Password <input autocomplete="on" name="conf pass" type="password"><br>
+      Name <input autocomplete="on" name="NAME" type="text"><br>
+      Surname<input autocomplete="on" name="surname" type="text"><br>
+      Phone<input name="phone" type="tel"></form>
+    <p><br>
+      
+    </p>
+      ?>
+      </div>
+  </body>
+</html>

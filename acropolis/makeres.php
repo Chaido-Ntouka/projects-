@@ -1,0 +1,93 @@
+<?php
+include("header.inc");
+include("dbc.php");
+/* These are our valid username and passwords */
+
+
+if (isset($_COOKIE['username']) && isset($_COOKIE['password'])) {
+    
+    $username = $_COOKIE['username'];
+    $password = $_COOKIE['password'];
+    $query="select count(*) from User where EMAIL='$username' and PASSWORD='$password' and CONFIRMED='yes'";
+    //echo $query;
+    
+    $result=mysqli_query($link,$query);
+    while($row=mysqli_fetch_row($result)) {
+        $count=$row[0];
+    }
+    
+    if ($count) {    
+        setcookie('username', $username, time()+3600);
+        setcookie('password', $password, time()+3600);
+        $query="select UID from User where EMAIL='$username'";
+        $result=mysqli_query($link,$query);
+        while($row=mysqli_fetch_row($result)) {
+            $UID=$row[0];
+            //echo $UID;
+        }
+        $date = $_POST["date"];
+        $time = $_POST["time"];
+        $datetime = "$date $time:00";
+        $number = $_POST["number"];
+
+        $dayofweek = date('w', strtotime($date))+1;
+        //echo $dayofweek;
+
+        $query = "INSERT INTO Res (UID, DATEHOUR, CLIENTNUM) VALUES ('$UID','$datetime','$number')";
+        //echo $query;
+        $result = mysqli_query($link, $query);
+        if ($result) {
+            $RID=mysqli_insert_id($link);//vriskei to teleutaio rid
+            $query="select A.TID,B.TID,A.CAPACITY+B.CAPACITY AS Total from (select A.TID, A.CAPACITY from Tables as A left join (select TID from Res_Tab,Res where (((DATEHOUR <= '$datetime' and DATEHOUR + INTERVAL 3 HOUR > '$datetime') or (DATEHOUR >= '$datetime' and DATEHOUR - INTERVAL 3 HOUR < '$datetime')) and Res_Tab.RID=Res.RID)) as B on A.TID=B.TID where B.TID is NULL) as A, (select A.TID, A.CAPACITY from Tables as A left join (select TID from Res_Tab,Res where (((DATEHOUR <= '$datetime' and DATEHOUR + INTERVAL 3 HOUR > '$datetime') or (DATEHOUR >= '$datetime' and DATEHOUR - INTERVAL 3 HOUR < '$datetime')) and Res_Tab.RID=Res.RID)) as B on A.TID=B.TID where B.TID is NULL) as B where A.TID<B.TID and A.CAPACITY+B.CAPACITY>=$number order by A.CAPACITY+B.CAPACITY,A.TID,B.TID limit 1";
+            //echo "$query";
+            $result = mysqli_query($link, $query);
+            while($row=mysqli_fetch_row($result)) {
+                $table[0]=$row[0];
+                $table[1]=$row[1];
+            }
+            //print_r($table);
+            for($i=0;$i<2;$i++) {
+                if($table[$i]) {
+                    $query="INSERT INTO Res_Tab (RID, TID) VALUES ('$RID','$table[$i]')";
+                    $result = mysqli_query($link, $query);
+                }
+            }
+            echo "<form method='POST' action='receipt.php' name='receipt'>\n";
+            echo "<table>\n";
+            echo "<tr><th>Περιγραφή</th><th>Τιμή</th><th>Ποσότητα</th></tr>\n";
+            $query="select Meal.MID,NAME,PRICE from Meal,Meal_Day where Meal.MID=Meal_Day.MID and DID=$dayofweek";
+            $result = mysqli_query($link, $query);
+            while($row=mysqli_fetch_row($result)) {
+                $name=$row[0];
+                $meal=$row[1];
+                $price=$row[2];
+                echo "<tr><td>$meal</td><td>";
+                printf("%.2f",$price);
+                echo "</td><td>\n";
+                echo "<select name='$name'>\n";
+                for($i=0;$i<21;$i++) {
+                    echo "<option value='$i'>$i</option>\n";
+                }
+                echo "</select>\n";
+                
+                echo "</td></tr>\n";
+            }
+            
+            echo "</table>\n";
+            echo "<input type='hidden' name='RID' value='$RID'>\n";
+            echo "<input type='hidden' name='dayofweek' value='$dayofweek'>\n";
+            echo "<p> <button type='submit' name='Enter'>Υποβολή</button> </p>\n";
+            echo "</form>\n";
+        } else {
+            echo "Error: " . $query . "<br>" . mysqli_error($link);
+        }
+    } else {
+        header('Location: log.php');
+    }
+} else {
+    header('Location: indx.php');
+}
+?>
+</div>
+</body>
+</html>

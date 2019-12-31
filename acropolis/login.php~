@@ -1,0 +1,25 @@
+<?php
+error_reporting( E_ALL );
+/* These are our valid username and passwords */
+   $user = 'doukaxaidw1@gmail.com';
+   $pass = '1234';
+
+
+    $username=$_POST['username'];
+    $password=$_POST['password'];
+
+if (isset($_POST['username']) && isset($_POST['password'])) {
+    
+    if (($username == $user) && ($password == $pass)) {    
+        
+        setcookie('username', $username, time()+3600);
+        setcookie('password', md5($password), time()+3600);
+        header('Location: logged.php');
+    } else {
+        echo 'Username/Password Invalid';
+    }
+	
+} else {
+    echo 'You must supply a username and password.';
+}
+?>
